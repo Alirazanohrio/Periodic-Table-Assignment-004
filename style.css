@@ -1,0 +1,67 @@
+#container{
+    width: 1000px;
+    margin: 100px auto;
+    /* border: 2px solid black; */
+    border: none;
+}
+td{
+    width: 50px;
+    height: 50px;
+    border-radius: 4px;
+}
+.text{
+    border: none;
+}
+#textrow, #firstrow, #secondrow, #thirdrow, #forthrow, #fifthrow, #sixthrow, #seventhrow, #eightrow, #ninthrow, #tenth{
+    empty-cells: hide;
+    text-align:center;
+    line-height: 7%;
+    padding: 3px;
+    color: aliceblue;
+}
+.para{
+    font-size: 10px;
+}
+.number{
+    font-size: 10px;
+
+}
+h1{
+    text-align: center;
+}
+.text{
+    color: black;
+}
+.blue{
+    background-color: rgb(198, 224, 103);
+}
+.green{
+    background-color: rgb(169, 105, 228);
+}
+.lightgreen{
+    background-color: rgb(13, 17, 231)
+}
+.orang{
+    background-color: rgb(168, 142, 93);
+}
+.purpul{
+    background-color: rgb(231, 28, 28);
+}
+.gray{
+    background-color: rgb(160, 157, 157);
+}
+.brown{
+    background-color: rgb(245, 181, 156);
+}
+.radish{
+    background-color: rgb(156, 53, 53);
+}
+.darkblue{ background-color: rgb(81, 81, 230);
+
+}
+.yellow{
+    background-color: rgb(218, 45, 166);
+}
+table{
+    border: none;
+}
